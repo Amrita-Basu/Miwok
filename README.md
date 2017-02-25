@@ -3,7 +3,7 @@ Miwok App
 
 An app for learning basic vocabulary words in Miwok, a Native American language. Built as part of an Android course on Udacity. Made a few technical improvements independently.
 
-![The Numbers Category](res/Screenshot_Numbers_Fragment.png "The Numbers Category")
+![The Numbers Category](Miwok/app/src/main/res/Screenshot_Colors_Fragment.png)
 
 Pre-requisites
 --------------
